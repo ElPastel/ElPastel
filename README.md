@@ -4,7 +4,7 @@
 <h3 align="center">я начинающий frontend разработчик</h3>
 <div align="right">
   
-  [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/el-pastel) 
+  [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/el_pastel) 
   
 </div>
 
