@@ -5,7 +5,7 @@
 <div align="center">
   
   [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/el_pastel)
-  <a href="gromova.victoria9@gmail.com">
+  <a href="mailto:gromova.victoria9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>  
 </div>
